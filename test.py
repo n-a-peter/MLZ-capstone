@@ -1,8 +1,8 @@
 import requests
 
-url = "http://localhost:9696/predict"  # docker and FastAPI url
+#url = "http://localhost:9696/predict"  # docker and FastAPI url
 
-#url = " " # cloud url
+url = "http://diabetes-prediction.eba-wik35p9p.us-east-1.elasticbeanstalk.com/predict" # cloud url
 
 #cloud_host_address = " "
 
