@@ -83,25 +83,25 @@ You would need to comment the docker url and then uncomment this cloud url to te
 
 The following pictures are screenshots of the model deployment in action:
 
-![Predict.py from fastapi service]('screenshots/predict-py from fastapi.PNG')
+![Predict.py from fastapi service](screenshots/predict-py_from_fastapi.PNG)
 Predict.py running from invocation of fastapi app.
 
 
-![Test.py running from fastapi]('screenshots/test-py from fastAPI.PNG')
+![Test.py running from fastapi](screenshots/test-py_from_fastAPI.PNG)
 Test.py running from fastapi url.
 
 
-![Building th docker image]('screenshots/Building docker image.PNG')
+![Building th docker image](screenshots/Building_docker_image.PNG)
 Building the docker image.
 
-![Docker image running]('screenshots/doker image running.PNG')
+![Docker image running](screenshots/docker_image_running.PNG)
 Docker imager running and docker URL available.
 
-![Test.py from docker image]('screenshots/test-py from docker image.PNG')
+![Test.py from docker image](screenshots/test-py_from_docker_image.PNG)
 Test.py running through docker image URL.
 
-![Cloud environmnt running on elasticbean]('screenshots/clound environment running on elastic bean.PNG')
+![Cloud environmnt running on elasticbean](screenshots/cloud_environment_running_on_elasticbean.PNG")
 Cloud ennvironment instantiated on elasticbean
 
-![Test.py running from cloud URL]('screenshots/predict-py from elasticbean cloud.PNG')
+![Test.py running from cloud URL](screenshots/predict-py_from_elasticbean_cloud.PNG")
 Test.py running from elastic bean cloud URL.
