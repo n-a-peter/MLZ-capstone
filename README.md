@@ -105,3 +105,7 @@ Cloud ennvironment instantiated on elasticbean
 
 ![Test.py running from cloud URL](screenshots/predict-py_from_elasticbean_cloud.PNG")
 Test.py running from elastic bean cloud URL.
+
+
+# Credits
+I would like to immensely thank *Alexey Grigorev* for being so generous with his time and resources to provide a very practical training on real world applications of Machine Learning. I have learnt a whole lot in a shorter time than I would have spent learning on my own. Thank you very much Alexey.
